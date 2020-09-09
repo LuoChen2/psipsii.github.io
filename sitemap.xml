@@ -2,23 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://psipsii.github.io/about/index.html</loc>
+    <loc>http://psipsii.github.io/2020/09/09/About%20Me/</loc>
     
-    <lastmod>2020-09-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://psipsii.github.io/2020/09/09/my-first-blog/</loc>
-    
-    <lastmod>2020-09-08</lastmod>
+    <lastmod>2020-09-09</lastmod>
     
   </url>
   
   <url>
     <loc>http://psipsii.github.io/CV/index.html</loc>
     
-    <lastmod>2020-09-08</lastmod>
+    <lastmod>2020-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://psipsii.github.io/about/index.html</loc>
+    
+    <lastmod>2020-09-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://psipsii.github.io/Research/index.html</loc>
+    
+    <lastmod>2020-09-09</lastmod>
     
   </url>
   
